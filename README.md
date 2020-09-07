@@ -1,17 +1,28 @@
 # ***Bike_Sharing***
-*[Click Here - Belly Button Biodiversity Dashboard](https://soijebor.github.io/Plotly_Deploy/)*
+
+*[Click Here - Bike Sharing Storyboard]()*
 
 ### ***Project Overview***
+
   * Import data into Tableau.
   * Create and style worksheets, dashboards, and stories in Tableau.
   * Use Tableau worksheets to display data in a professional way.
   * Portray data accurately using Tableau dashboards.
 
 ## ***Resources***
-  * Data Source: [citibike data link](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip) , https://github.com/soijebor/Bike_Sharing/tree/master/Data
+
   * Software: Tableau 2020.3
+  * Data Source: 
+    * [citibike data link](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
+    * https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny 
+    * https://data.census.gov/cedsci/table?q=Population%20age%20and%20sex%20des%20moines&g=1600000US1921000&tid=ACSST5Y2018.S0101&tp=false&hidePreview=false
+    * https://data.census.gov/cedsci/table?q=Population%20age%20and%20sex%20new%20york&g=1600000US1921000&tid=ACSST5Y2018.S0101&tp=false&hidePreview=false
+    * https://worldpopulationreview.com/us-cities/des-moines-ia-population
+    * https://worldpopulationreview.com/us-cities/new-york-city-ny-population
+    
 
 ### ***Challenge Overview***
+
   * Display data professionally and accurately.
   * Professionally style a Tableau story.
   * Utilize previously created Tableau worksheets to create a new story.
@@ -48,6 +59,3 @@ I also looked into some other questions i had in mind like the comparism between
   * Poverty Level: The poverty level of Des Moines and New York City are similar, we can expect similar ridership ratio.
   * Population By Age: Our prime riders are with 25-29 years old so as our population rate for both Des Moines and New York City, but there is steady use from 25-68 years old.
   * Population By Gender: From my analysis,i can tell that in both New York City and Des Moines there is a higher percentage of female population  
-
-### ***Sources***
-https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny - Poverty rate
