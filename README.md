@@ -59,4 +59,4 @@ I also looked into some other questions I had in mind like the relationship betw
   * Poverty Level: The poverty level of Des Moines and New York City are similar, we can expect similar ridership ratio.
   
   * Population by Age: Our prime riders are with 25-29 years old so as our population rate for both Des Moines and New York City, but there is steady use from 25-68 years old.
-  * Population by Gender: From my analysis, I can tell that in both New York City and Des Moines there is a higher percentage of female population  
+  * Population by Gender: From my analysis, I can tell that in both New York City and Des Moines there is a higher percentage of female population.
