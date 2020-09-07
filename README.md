@@ -56,6 +56,8 @@ I also looked into some other questions I had in mind like the relationship betw
   * Competition: we have a competitor... BCycle
   * Tourism: In 2016, Des Moines welcomed about 13.7 million visitors while NYC had about 67 million.
   
+In conclusion, i believe a bike sharing program will be successful in Des Moines
+  
 ## ***Resources***
 
   * Software: Tableau 2020.3
