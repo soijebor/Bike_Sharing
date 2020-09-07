@@ -15,19 +15,9 @@
   * Professionally style a Tableau story.
   * Utilize previously created Tableau worksheets to create a new story.
   * Create a Tableau story based on starting a bike-sharing company in Des Moines.
-  
-  To craft this narrative for the investors, you'll do the following:
-
-  * Select your questions. 
-    * What is the population of Des Moines? 
-    * How does its population compare to the population of New York City? 
-    * Does the population affect the number of people who will use the bike-sharing program?
-  * Execute independent research.
-  * Craft your Tableau story.
-      [Link to My StoryBoard]()
-  * Create a written analysis. 
 
 ### ***Written Analysis***
+
 My goal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. So, I formatted the story so it's persuasive! I also included information about both New York City and Des Moines—after all, for the investors to understand how the Citi Bike data for New York City applies to our proposal.
 
 #### ***Citibike NYC Analysis***
