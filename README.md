@@ -9,26 +9,6 @@
   * Use Tableau worksheets to display data in a professional way.
   * Portray data accurately using Tableau dashboards.
 
-## ***Resources***
-
-  * Software: Tableau 2020.3
-  * Data Source: 
-    * [citibike data link](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
-    * https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny 
-    * https://data.census.gov/cedsci/table?q=Population%20age%20and%20sex%20des%20moines&g=1600000US1921000&tid=ACSST5Y2018.S0101&tp=false&hidePreview=false
-    * https://data.census.gov/cedsci/table?q=Population%20age%20and%20sex%20new%20york&g=1600000US1921000&tid=ACSST5Y2018.S0101&tp=false&hidePreview=false
-    * https://worldpopulationreview.com/us-cities/des-moines-ia-population
-    * https://worldpopulationreview.com/us-cities/new-york-city-ny-population
-    * https://www.catchdesmoines.com/things-to-do/
-    * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citibikenyc.com%2F&psig=AOvVaw0yVEE-SNQtlxTc3SpfEq5V&ust=1599532775799000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICOkYmC1usCFQAAAAAdAAAAABAD
-    * https://cdn01.bcycle.com/libraries/images/default-source/default-library/electric-bike-checkouts.jpg?sfvrsn=4f1126c5_0
-    * http://www.bikeiowa.com/uploads/articles/BCyclebikes.jpg
-    * https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_355,q_75,w_474/v1/clients/redesign-desmoines/TrailsScreenShot_nologo_97b9d6aa_58ce_45bc_a518_3e45da013a64_5d35dcf3-7226-4fe9-bf12-498ec7c4a1d7.png
-    * http://travelsfinders.com/wp-content/uploads/2016/10/iowa-map-tourist-attractions_0.jpg
-    * https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/c/a9/ca9234ac-c6ac-11e8-9aae-5bc2176f82e6/5bb41d6f1bea0.image.jpg?resize=1200%2C800
-    * https://res.cloudinary.com/simpleview/image/upload/v1495048157/clients/desmoines/217230c3_1e96_4720_a4fa_10d21818f662_cc46df2b-8748-4896-9851-fdab3a398fe9.jpg
-    * https://olioiniowa.com/2017/03/27/des-moines-day-trips-southern-iowa-loop/
-
 ### ***Challenge Overview***
 
   * Display data professionally and accurately.
@@ -51,9 +31,15 @@
 My goal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. So, I formatted the story so it's persuasive! I also included information about both New York City and Des Moines—after all, for the investors to understand how the Citi Bike data for New York City applies to our proposal.
 
 #### ***Citibike NYC Analysis***
+
+![image](https://github.com/soijebor/Bike_Sharing/blob/master/Images/NYC%20Pic.jpeg)
+
 The citibike program in New York City seems to be booming based on a recent analysis of bike sharing data from August 2019. The average trip duration for riders born between 1960 -1980 seems close except for those born in 1969 where we had a spike in trip duration and the trend for riders born after 1980 tends to a slow upward incline. 72.2% of the bike sharing riders were male riders.
 
 #### ***Des Moines Bike Sharing Analysis***
+
+![image](https://github.com/soijebor/Bike_Sharing/blob/master/Images/Screen%20Shot%202020-09-06%20at%2010.32.44%20PM.png)
+
 ##### ***Questions???***
 
   * What is the population of Des Moines? 
@@ -62,16 +48,31 @@ The citibike program in New York City seems to be booming based on a recent anal
     The Population in New York City is 39 times greater than that of Des Moines
   * Does the population affect the number of people who will use the bike-sharing program?
   The population doesn't necessarily affect who will us e the bike sharing program as after doing my research and found out that Des Moines has a lot of visitors yearly.
+  
 I also looked into some other questions I had in mind like the relationship between both cities by Poverty level, Age and Gender:
-  
   * Poverty Level: The poverty level of Des Moines and NYC are similar, we can expect similar ridership ratio.
-  
   * Age Group: Our prime riders are with 25-29 years old so as our population rate for both Des Moines and NYC, but there is steady use from 25-68 years old.
-  
   * Gender: From my analysis, I can tell that in both NYC and Des Moines there is a higher percentage of female population.
-  
   * Competition: we have a competitor... BCycle
-  ![image](https://github.com/soijebor/Bike_Sharing/blob/master/Images/Bcycle%201.jpg)
-  * Tourism: In 2016, Des Moines welcomed about 13.7 million visitors while NYC had about 67 million
+  * Tourism: In 2016, Des Moines welcomed about 13.7 million visitors while NYC had about 67 million.
   
-    ![image](https://github.com/soijebor/Bike_Sharing/blob/master/Images/Screen%20Shot%202020-09-06%20at%2010.32.44%20PM.png)
+## ***Resources***
+
+  * Software: Tableau 2020.3
+  * Data Source: 
+    * [citibike data link](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip)
+    * https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny 
+    * https://data.census.gov/cedsci/table?q=Population%20age%20and%20sex%20des%20moines&g=1600000US1921000&tid=ACSST5Y2018.S0101&tp=false&hidePreview=false
+    * https://data.census.gov/cedsci/table?q=Population%20age%20and%20sex%20new%20york&g=1600000US1921000&tid=ACSST5Y2018.S0101&tp=false&hidePreview=false
+    * https://worldpopulationreview.com/us-cities/des-moines-ia-population
+    * https://worldpopulationreview.com/us-cities/new-york-city-ny-population
+    * https://www.catchdesmoines.com/things-to-do/
+    * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citibikenyc.com%2F&psig=AOvVaw0yVEE-SNQtlxTc3SpfEq5V&ust=1599532775799000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICOkYmC1usCFQAAAAAdAAAAABAD
+    * https://cdn01.bcycle.com/libraries/images/default-source/default-library/electric-bike-checkouts.jpg?sfvrsn=4f1126c5_0
+    * http://www.bikeiowa.com/uploads/articles/BCyclebikes.jpg
+    * https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_355,q_75,w_474/v1/clients/redesign-desmoines/TrailsScreenShot_nologo_97b9d6aa_58ce_45bc_a518_3e45da013a64_5d35dcf3-7226-4fe9-bf12-498ec7c4a1d7.png
+    * http://travelsfinders.com/wp-content/uploads/2016/10/iowa-map-tourist-attractions_0.jpg
+    * https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/c/a9/ca9234ac-c6ac-11e8-9aae-5bc2176f82e6/5bb41d6f1bea0.image.jpg?resize=1200%2C800
+    * https://res.cloudinary.com/simpleview/image/upload/v1495048157/clients/desmoines/217230c3_1e96_4720_a4fa_10d21818f662_cc46df2b-8748-4896-9851-fdab3a398fe9.jpg
+    * https://olioiniowa.com/2017/03/27/des-moines-day-trips-southern-iowa-loop/
+  
