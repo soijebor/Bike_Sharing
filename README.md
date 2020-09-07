@@ -51,21 +51,24 @@ The citibike program in New York City seems to be booming based on a recent anal
 
 #### ***Des Moines Bike Sharing Analysis***
 ##### ***Questions???***
+
   * What is the population of Des Moines? 
-  Des Moines has an estimated population as of 2018 from the census data of 215,932 which is about 39 times less than that of New York City which has 8,443,713 
+  Des Moines has an estimated population as of 2018 from the census data of 215,932 which is about 39 times less than that of NYC which has 8,443,713 
   * How does its population compare to the population of New York City? 
     The Population in New York City is 39 times greater than that of Des Moines
   * Does the population affect the number of people who will use the bike-sharing program?
-  The population doesn't necessarily affect who will us e the bike sharing program as after doing my research and found out that Des Moines has a lot of visitors yearly. In 2019 only they had about 37 million visitors while New York City had about 67 million which is quick high if we compare it to the population of both cities. I believe with that much visitors we will have a good number of riders as tourists
-  
+  The population doesn't necessarily affect who will us e the bike sharing program as after doing my research and found out that Des Moines has a lot of visitors yearly.
 I also looked into some other questions I had in mind like the relationship between both cities by Poverty level, Age and Gender:
   
-  * Poverty Level: The poverty level of Des Moines and New York City are similar, we can expect similar ridership ratio.
+  * Poverty Level: The poverty level of Des Moines and NYC are similar, we can expect similar ridership ratio.
   
-  * Age Group: Our prime riders are with 25-29 years old so as our population rate for both Des Moines and New York City, but there is steady use from 25-68 years old.
+  * Age Group: Our prime riders are with 25-29 years old so as our population rate for both Des Moines and NYC, but there is steady use from 25-68 years old.
   
-  * Gender: From my analysis, I can tell that in both New York City and Des Moines there is a higher percentage of female population.
+  * Gender: From my analysis, I can tell that in both NYC and Des Moines there is a higher percentage of female population.
   
   * Competition: we have a competitor... BCycle
+  
+  * Tourism: In 2016, Des Moines welcomed about 13.7 million visitors while NYC had about 67 million
+  
   
   
