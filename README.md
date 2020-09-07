@@ -67,7 +67,7 @@ I also looked into some other questions I had in mind like the relationship betw
   * Gender: From my analysis, I can tell that in both NYC and Des Moines there is a higher percentage of female population.
   
   * Competition: we have a competitor... BCycle
-  
+  ![image]()
   * Tourism: In 2016, Des Moines welcomed about 13.7 million visitors while NYC had about 67 million
   
   
