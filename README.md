@@ -20,6 +20,10 @@
     * https://worldpopulationreview.com/us-cities/des-moines-ia-population
     * https://worldpopulationreview.com/us-cities/new-york-city-ny-population
     * https://www.catchdesmoines.com/things-to-do/
+    * https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.citibikenyc.com%2F&psig=AOvVaw0yVEE-SNQtlxTc3SpfEq5V&ust=1599532775799000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICOkYmC1usCFQAAAAAdAAAAABAD
+    * https://cdn01.bcycle.com/libraries/images/default-source/default-library/electric-bike-checkouts.jpg?sfvrsn=4f1126c5_0
+    * http://www.bikeiowa.com/uploads/articles/BCyclebikes.jpg
+    * https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_355,q_75,w_474/v1/clients/redesign-desmoines/TrailsScreenShot_nologo_97b9d6aa_58ce_45bc_a518_3e45da013a64_5d35dcf3-7226-4fe9-bf12-498ec7c4a1d7.png
 
 ### ***Challenge Overview***
 
@@ -58,5 +62,10 @@ I also looked into some other questions I had in mind like the relationship betw
   
   * Poverty Level: The poverty level of Des Moines and New York City are similar, we can expect similar ridership ratio.
   
-  * Population by Age: Our prime riders are with 25-29 years old so as our population rate for both Des Moines and New York City, but there is steady use from 25-68 years old.
-  * Population by Gender: From my analysis, I can tell that in both New York City and Des Moines there is a higher percentage of female population.
+  * Age Group: Our prime riders are with 25-29 years old so as our population rate for both Des Moines and New York City, but there is steady use from 25-68 years old.
+  
+  * Gender: From my analysis, I can tell that in both New York City and Des Moines there is a higher percentage of female population.
+  
+  * Competition: we have a competitor... BCycle
+  
+  
