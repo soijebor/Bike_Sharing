@@ -42,8 +42,12 @@ The citibike program in New York City seems to be booming based on a recent anal
     The Population in New York City is 39 times greater than that of Des Moines
   * Does the population affect the number of people who will use the bike-sharing program?
   The population doesn't necessarily affect who will us e the bike sharing program as after doing my research and found out that Des Moines has a lot of visitors yearly. In 2019 only they had about 37 million visitors while New York City had about 67 million which is quick high if we compare it to the population of both cities. I believe with that much visitors we will have a good amount of riders as tourists
+  
+I also looked into some other questions i had in mind like the comparism between both cities by Poverty level, Age and Gender:
+  
   * Poverty Level: The poverty level of Des Moines and New York City are similar, we can expect similar ridership ratio.
   * Population By Age: Our prime riders are with 25-29 years old so as our population rate for both Des Moines and New York City, but there is steady use from 25-68 years old.
+  * Population By Gender: From my analysis,i can tell that in both New York City and Des Moines there is a higher percentage of female population  
 
 ### ***Sources***
 https://datausa.io/profile/geo/des-moines-ia/?compare=new-york-ny - Poverty rate
