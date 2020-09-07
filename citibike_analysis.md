@@ -33,18 +33,18 @@ The citibike program in New York City seems to be booming based on a recent anal
 ##### ***Questions???***
 
   * What is the population of Des Moines? 
-  Des Moines has an estimated population as of 2018 from the census data of 215,932 which is about 39 times less than that of NYC which has 8,443,713 
+  Des Moines has an estimated population as of 2018 from the census data of 215,932 which is about 39 times less than that of NYC which has 8,443,713.
   * How does its population compare to the population of New York City? 
-    The Population in New York City is 39 times greater than that of Des Moines
+    The Population in New York City is 39 times greater than that of Des Moines.
   * Does the population affect the number of people who will use the bike-sharing program?
   The population doesn't necessarily affect who will us e the bike sharing program as after doing my research and found out that Des Moines has a lot of visitors yearly.
   
 Other questions that comes to mind:
-  * Population Growth Rate: From my analysis, we can see that Des Moines is a growing city since the 1980's
-  * Age : Our prime riders are with the age group of 25 to 29 years. Also, both cities have a large population within 25 to 29 years
+  * Population Growth Rate: From my analysis, we can see that Des Moines is a growing city since the 1980's.
+  * Age : Our prime riders are with the age group of 25 to 29 years. Also, both cities have a large population within 25 to 29 years.
   * Gender: From my analysis, I can tell that in both NYC and Des Moines there is a higher percentage of female population.
   * Poverty Level: The poverty level of Des Moines and NYC are similar, we can expect similar ridership ratio.
-  * Competition: we have a competitor... BCycle
+  * Competition: we have a competitor... BCycle.
   * Tourism: In 2016, Des Moines welcomed about 13.7 million visitors and 2.74 of those visitors do not come with vehichle and will be our users while NYC had about 67 million.
   
 In conclusion, i believe a bike sharing program will be successful in Des Moines
