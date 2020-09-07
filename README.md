@@ -39,10 +39,11 @@ The citibike program in New York City seems to be booming based on a recent anal
   * Does the population affect the number of people who will use the bike-sharing program?
   The population doesn't necessarily affect who will us e the bike sharing program as after doing my research and found out that Des Moines has a lot of visitors yearly.
   
-I also looked into some other questions I had in mind like the relationship between both cities by Poverty level, Age and Gender:
-  * Poverty Level: The poverty level of Des Moines and NYC are similar, we can expect similar ridership ratio.
-  * Age Group: Our prime riders are with 25-29 years old so as our population rate for both Des Moines and NYC, but there is steady use from 25-68 years old.
+Other questions that comes to mind showing relationship between both cities:
+  * Population Growth Rate: From my analysis, we can see that Des Moines is a growing city since the 1980's
+  * Age : Our prime riders are with the age group of 25 to 29 years. Also, both cities have a large population within 25 to 29 years
   * Gender: From my analysis, I can tell that in both NYC and Des Moines there is a higher percentage of female population.
+  * Poverty Level: The poverty level of Des Moines and NYC are similar, we can expect similar ridership ratio.
   * Competition: we have a competitor... BCycle
   * Tourism: In 2016, Des Moines welcomed about 13.7 million visitors while NYC had about 67 million.
   
@@ -67,4 +68,4 @@ In conclusion, i believe a bike sharing program will be successful in Des Moines
     * https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/c/a9/ca9234ac-c6ac-11e8-9aae-5bc2176f82e6/5bb41d6f1bea0.image.jpg?resize=1200%2C800
     * https://res.cloudinary.com/simpleview/image/upload/v1495048157/clients/desmoines/217230c3_1e96_4720_a4fa_10d21818f662_cc46df2b-8748-4896-9851-fdab3a398fe9.jpg
     * https://olioiniowa.com/2017/03/27/des-moines-day-trips-southern-iowa-loop/
-  
+ 
