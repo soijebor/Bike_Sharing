@@ -24,6 +24,10 @@
     * https://cdn01.bcycle.com/libraries/images/default-source/default-library/electric-bike-checkouts.jpg?sfvrsn=4f1126c5_0
     * http://www.bikeiowa.com/uploads/articles/BCyclebikes.jpg
     * https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_355,q_75,w_474/v1/clients/redesign-desmoines/TrailsScreenShot_nologo_97b9d6aa_58ce_45bc_a518_3e45da013a64_5d35dcf3-7226-4fe9-bf12-498ec7c4a1d7.png
+    * http://travelsfinders.com/wp-content/uploads/2016/10/iowa-map-tourist-attractions_0.jpg
+    * https://bloximages.newyork1.vip.townnews.com/dailynebraskan.com/content/tncms/assets/v3/editorial/c/a9/ca9234ac-c6ac-11e8-9aae-5bc2176f82e6/5bb41d6f1bea0.image.jpg?resize=1200%2C800
+    * https://res.cloudinary.com/simpleview/image/upload/v1495048157/clients/desmoines/217230c3_1e96_4720_a4fa_10d21818f662_cc46df2b-8748-4896-9851-fdab3a398fe9.jpg
+    * https://olioiniowa.com/2017/03/27/des-moines-day-trips-southern-iowa-loop/
 
 ### ***Challenge Overview***
 
@@ -67,8 +71,7 @@ I also looked into some other questions I had in mind like the relationship betw
   * Gender: From my analysis, I can tell that in both NYC and Des Moines there is a higher percentage of female population.
   
   * Competition: we have a competitor... BCycle
-  ![image]()
+  ![image](https://github.com/soijebor/Bike_Sharing/blob/master/Images/Bcycle%201.jpg)
   * Tourism: In 2016, Des Moines welcomed about 13.7 million visitors while NYC had about 67 million
   
-  
-  
+    ![image](https://github.com/soijebor/Bike_Sharing/blob/master/Images/Screen%20Shot%202020-09-06%20at%2010.32.44%20PM.png)
